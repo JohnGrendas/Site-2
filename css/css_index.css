@@ -31,8 +31,23 @@ h1 {
   color: black;
   text-align: center;
 }
+h2 {
+  color: black;
+  text-align: center;
+
+}
+h3 {
+  font-style: bolt;
+  color: black;
+  text-align: center;
+
+}
+h4 {
+  font-style: bolt;
+  text-decoration: underline;
+}
 
 p {
-  font-family: verdana;
-  font-size: 20px;
+  font-family: Arial;
+  font-size: 15px;
 }
